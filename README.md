@@ -1,5 +1,12 @@
-# Евгений Половный
-#### Evgeniy Polovniy
+# Евгений половный
+![my avatar][avatar] 
 
-![my avatar][avatar]
-[avatar]: http://cdn.grumpycats.com/wp-content/uploads/2012/09/GC-Gravatar-copy.png
+* **Date of birth:** January, 4, 1990
+* **Age:** 25
+* **Marital status:** Single
+* **Address:**  Dnepropetrovsk, Volniy 6 , app.116
+* **Skype:** epolovniy 
+* **VK:** http://vk.com/evgeniypolovniy
+* **FB:** https://www.facebook.com/evgeniypolovniy
+
+[avatar]: https://github.com/EvgeniyPolovniy/resume/blob/master/img/ava.jpg
