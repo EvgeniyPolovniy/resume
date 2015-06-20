@@ -1,3 +1,5 @@
-# resume
-resume
-![Image of Yaktocat](https://avatars0.githubusercontent.com/u/1692798)
+# Евгений Половный
+#### Evgeniy Polovniy
+
+![my avatar][avatar]
+[avatar]: http://cdn.grumpycats.com/wp-content/uploads/2012/09/GC-Gravatar-copy.png
