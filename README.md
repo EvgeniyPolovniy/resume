@@ -37,8 +37,8 @@ Languages: English – Pre-Intermediate
 - Sublime Text, Brackets
 
 ###Professional skills
-- **Junior:** Java, Joomla, LESS, Node.js, Grunt
-- **Middle:** MySQL, Drupal, Underscore
+- **Junior:** Java, Joomla, LESS, Node, Grunt, AngularJS
+- **Middle:** MySQL, Drupal, Underscore, React
 - **Strong:** CSS/CSS3, SASS , HTML/HTML5, WordPress, Bootstrap, JavaScript, CoffeeScript, GIT, JIRA, TortoiseGit, Gulp
 
 
