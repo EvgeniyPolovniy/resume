@@ -8,6 +8,7 @@
 * **Skype:** epolovniy 
 * **VK:** http://vk.com/evgeniypolovniy
 * **FB:** https://www.facebook.com/evgeniypolovniy
+* **LI:** https://ua.linkedin.com/in/evgeniypolovniy
 
 ###Objective:
 Web developer (front-end)
