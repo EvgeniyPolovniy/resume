@@ -41,7 +41,7 @@ Languages: English – Pre-Intermediate
 ###Professional skills
 - **Junior:** Java, Joomla, Grunt, Angular
 - **Middle:** MySQL, Drupal, Underscore, LESS, Node.js
-- **Strong:** CSS/CSS3, SASS , HTML/HTML5, WordPress, Bootstrap, JavaScript, CoffeeScript, jQuery/Zepto, GIT, JIRA, TortoiseGit, Gulp,  React, Flux
+- **Strong:** CSS/CSS3, SASS , HTML/HTML5, WordPress, Bootstrap, Zurb Foundation, JavaScript, CoffeeScript, jQuery/Zepto, GIT, JIRA, TortoiseGit, Gulp,  React, Flux
 
 ###My hobbies:
 - Motorcycles
